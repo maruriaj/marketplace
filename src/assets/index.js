@@ -27,6 +27,12 @@ import fashion from "./fashion.png";
 import meal from "./meal.png";
 import media from "./media.png";
 import calendar from "./calendar.png";
+import dadasoko from "./dadasoko.png";
+import mealsoko from "./mealsoko.png";
+import paysoko from "./paysoko.png";
+import ticketsoko from "./ticketsoko.png";
+
+
 
 
 export {
@@ -59,4 +65,8 @@ export {
   meal,
   media,
   calendar,
+  dadasoko,
+  mealsoko,
+  paysoko,
+  ticketsoko
 };

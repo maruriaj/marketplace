@@ -1,4 +1,4 @@
-import { facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, fashion, meal, media, calendar } from "../assets";
+import { facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, fashion, meal, media, calendar, dadasoko, mealsoko, paysoko, ticketsoko } from "../assets";
 
 export const navLinks = [
   {
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Our Mission",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "SokoVerse has a mission to create synergy between many platforms all in one place. Our echo system is open to any business that provides products and services within the approved regions.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Find Us",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We are located at Gigiri Box Park along United Nations Ave, Nairobi, Kenya. Open Hours: Mon - Fri * 9AM - 6PM.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Contact Us",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Want to get in touch? Feel free to give us a call on +254 794 403 000 or email: support@sokoverse.com .",
   },
 ];
 
@@ -144,14 +144,14 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Partner",
+    title: "FAQs",
     links: [
       {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        name: "Why SokoVerse?",
+        link: "",
       },
       {
-        name: "Become a Partner",
+        name: "What are the charges?",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
@@ -184,18 +184,18 @@ export const socialMedia = [
 export const clients = [
   {
     id: "client-1",
-    logo: airbnb,
+    logo: paysoko,
   },
   {
     id: "client-2",
-    logo: binance,
+    logo: dadasoko,
   },
   {
     id: "client-3",
-    logo: coinbase,
+    logo: ticketsoko,
   },
   {
     id: "client-4",
-    logo: dropbox,
+    logo: mealsoko,
   },
 ];

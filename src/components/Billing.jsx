@@ -14,8 +14,7 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+        Sokoverse suits all<br className="sm:block hidden" />  your business needs.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Whether you are a big or small business SokoVerse provides digital tools for you to get more customers and increase your sales.Our platforms are highly configurable and our team works closely with your brands team to deliver real results.
