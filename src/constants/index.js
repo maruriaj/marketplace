@@ -1,4 +1,4 @@
-import { facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, fashion, meal, media, calendar, dadasoko, mealsoko, paysoko, ticketsoko } from "../assets";
+import { facebook, instagram, linkedin, twitter, send, shield, star, fashion, meal, media, calendar, dadasoko, mealsoko, paysoko, ticketsoko } from "../assets";
 
 export const navLinks = [
   {
@@ -7,15 +7,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "About",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "features",
+    title: "Services",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Contact",
   },
 ];
 
@@ -148,11 +148,11 @@ export const footerLinks = [
     links: [
       {
         name: "Why SokoVerse?",
-        link: "",
+        link: "#",
       },
       {
         name: "What are the charges?",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "#",
       },
     ],
   },
